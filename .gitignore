@@ -1,4 +1,6 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+*.sln
 **/x64
+**/.vs
